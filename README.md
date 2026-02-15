@@ -19,4 +19,4 @@ To predict HDI, the following models were implemented and compared:
 * **Python:** Pandas, Scikit-learn, Seaborn, Matplotlib.
 * **Techniques:** Data Imputation, Regression Analysis, Clustering.
 
-[📄 Read the Full Paper](Docs/global-hdi-prediction-analysis.pdf) | [💻 View Notebook](Notebooks/Global-hdi-prediction.ipynb)
+[📄 Read the Full Paper](Main/Docs/global-hdi-prediction-analysis.pdf) | [💻 View Notebook](Main/Notebooks/Global-hdi-prediction.ipynb)
